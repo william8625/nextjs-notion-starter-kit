@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jiannan Wang',
 
   // open graph metadata (optional)
-  description: 'Jiannan Wang's personal academic homepage',
+  description: 'Jiannan Wang\'s personal academic homepage',
 
   // social usernames (optional)
 
